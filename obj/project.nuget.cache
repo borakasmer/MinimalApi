@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9+ozrBYIFV+CXRuqWLkcEO7CtRUWZC88ITYAbAJ1EO3ze465zB2nxJfc8xiVk/MJP/fO49SsLTi0cUU/SZ1LsA==",
+  "dgSpecHash": "64ECpKJbTdmkjr91/AVuGQsERmLsiGQCRXsTh1ffgBuXPgmNvBe8Acv4YG/nu1kzIlaIpdibQLDzOvA3uzVMTg==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\DevNot2021\\DevNot2021.csproj",
+  "projectFilePath": "C:\\GitHub\\MinimalApi\\DevNot2021.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\borakasmer\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\borakasmer\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

@@ -2509,11 +2509,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\DevNot2021\\DevNot2021.csproj",
+      "projectUniqueName": "C:\\GitHub\\MinimalApi\\DevNot2021.csproj",
       "projectName": "DevNot2021",
-      "projectPath": "C:\\Projects\\DevNot2021\\DevNot2021.csproj",
+      "projectPath": "C:\\GitHub\\MinimalApi\\DevNot2021.csproj",
       "packagesPath": "C:\\Users\\borakasmer\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\DevNot2021\\obj\\",
+      "outputPath": "C:\\GitHub\\MinimalApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\borakasmer\\AppData\\Roaming\\NuGet\\NuGet.Config",

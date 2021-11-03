@@ -127,7 +127,7 @@ app.MapPost("/InsertUser", async (DevNotContext context, User user,IMapper mappe
     return new OkResult();
 });
 
-app.MapGet("/GetAllUsersByID/{name}", [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)] async (HttpContext http, DevNotContext context, string name) =>
+app.MapGet("/GetAllUsersByName/{name}", [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)] async (HttpContext http, DevNotContext context, string name) =>
 {
     var sqlQuery = context.DbUser.Where(u => u.UserName.Contains(name)).ToQueryString();
     System.Diagnostics.Debug.WriteLine(sqlQuery);
